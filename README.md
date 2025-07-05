@@ -1,4 +1,4 @@
-#Let's integrate the project according to your need:
+# Let's integrate the project according to your need:
 
 1. Create a Maven based JavaFX project in IntelliJ.  
 2. Replace all the files and folders of it with the ones in this repository.  
@@ -16,7 +16,7 @@
 14. Now enter an app name, e.g., "practice", and after creating it, it will give you a password. Copy it and paste it into the `password` String.  
 15. You are good to go now!
 
-#Note
+# Note
   1. This project uses Firebase Authentication REST API to securely sign in users via email/password.
   2. OTPs are generated and stored in Firestore and sent via SMTP (Gmail SMTP is used by default).
   3. Make sure to update your SMTP credentials in EmailService.java to send emails correctly.
