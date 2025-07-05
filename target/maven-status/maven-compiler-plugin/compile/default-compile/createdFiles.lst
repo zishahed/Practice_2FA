@@ -1,0 +1,9 @@
+com\practise2fa\EmailService.class
+com\practise2fa\FirebaseAuthClient.class
+com\practise2fa\controllers\MainFrameController.class
+com\practise2fa\FireBaseInit.class
+com\practise2fa\EmailService$1.class
+com\practise2fa\controllers\RegisterController.class
+com\practise2fa\controllers\LoginController.class
+com\practise2fa\Main.class
+com\practise2fa\AuthenticationService.class
